@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+#email {
+    border-style: ridge;
+    margin: 15px;
+}
+
+#subject {
+    border-style: solid; 
+    border-color: #E8E8E8; 
+    border-width: 2px; 
+    padding: 10px; 
+    margin-top: 15px;
+}
